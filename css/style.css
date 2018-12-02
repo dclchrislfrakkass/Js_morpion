@@ -1,0 +1,49 @@
+body
+{
+    background-image: url('/images/fond.jpeg');
+    background-size: cover;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 3em;
+    color: #FFFFFF;
+    text-shadow: 4px 3px 0px rgb(80, 89, 134);
+    color: #FFFFFF;
+}
+
+#Jeu
+{
+    width: 600px;
+    height: 620px;
+    overflow: auto;
+    margin: auto;
+    padding: 10px;
+}
+
+#Jeu div
+{
+    width: 500px;
+    margin: auto;
+    clear: both;
+}
+
+#Jeu button
+{
+    width: 150px;
+    height: 150px;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 8px;
+    float: left;
+}
+
+#StatutJeu
+{
+    color: black;
+    padding: 15px 10px;
+    text-align: center;
+    font-size: 20px;
+    border: 5px ridge #333;
+}
